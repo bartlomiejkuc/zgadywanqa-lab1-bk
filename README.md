@@ -5,9 +5,9 @@ Gra za dużo za mało realizowana na lab1n
 
 ### Chapter 2
 
-asdadsadas 'Console.WriteLine()' sdadasdasdas
+asdadsadas `Console.WriteLine()` sdadasdasdas
 
-'''csharp
+```csharp
 int x = 1;
 int u = x +1;
 
@@ -15,7 +15,7 @@ for(int i= 1; i < n; i++)
 {
   // komentarz
 }
-'''
+```
 [Kliknij tutaj](http://e.wsei.edu.pl)
 
 - punkt 1
